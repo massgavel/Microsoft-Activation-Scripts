@@ -2,8 +2,6 @@
 @setlocal DisableDelayedExpansion
 @echo off
 
-msg * ola
-
 ::  For command line switches, check mass grave[.]dev/command_line_switches.html
 ::  If you want to better understand script, read from MAS separate files version. 
 
